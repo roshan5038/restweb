@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:30/09/2025
+## Date:30//2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -541,3 +541,29 @@ Publish the website in the given URL.
 
 </html>
 ```
+
+## OUTPUT:
+HOMEPAGE
+
+<img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/3e2b2b85-4552-42db-ad47-30ed74ac9175" />
+
+
+MENU
+
+<img width="1915" height="953" alt="image" src="https://github.com/user-attachments/assets/ef1675f7-d197-4397-8f6e-da5cde4b7b51" />
+
+
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/b79f8a23-3145-4f3c-8a8c-91e083bb7b92" />
+
+
+CONTACT
+
+<img width="1916" height="897" alt="image" src="https://github.com/user-attachments/assets/b246a551-6f7d-44dc-814d-74e20085f463" />
+
+
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/155ce738-2e1c-4fd0-84ab-e4ade9e920f4" />
+
+
+
+## RESULT:
+The program for designing software company website using HTML and CSS is completed successfully.
